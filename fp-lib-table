@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM_Feather")(type "KiCad")(uri "/home/bene/Dokumente/Studium/IT-Sicherheit/3. Semester/Advanced Topics in PCB Design/STM_Feather")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)

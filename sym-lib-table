@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Motorplatine_Sidewinder-eagle-import")(type "KiCad")(uri "/home/bene/Dokumente/Hobby/Sailing Team/Sidewinder/motorplatine/Motorplatine_Sidewinder/Motorplatine_Sidewinder-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "ADG774BRQZ")(type "Legacy")(uri "/home/bene/Dokumente/Hobby/Sailing Team/Sidewinder/motorplatine/LIB_ADG774BRQZ/ADG774BRQZ/KiCad/ADG774BRQZ.lib")(options "")(descr ""))
+  (lib (name "MCP1754T-3302E_OT")(type "KiCad")(uri "${KIPRJMOD}/LIB_MCP1754T-3302E_OT/MCP1754T-3302E_OT/KiCad/MCP1754T-3302E_OT.kicad_sym")(options "")(descr ""))
+  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/tp4056.kicad_sym")(options "")(descr ""))
+)
